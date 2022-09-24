@@ -31,7 +31,7 @@ cd back
 npm install
 ```
 
-## Run server
+### Run server
 ```
 node server.js
 ```
