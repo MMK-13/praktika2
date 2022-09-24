@@ -1,6 +1,6 @@
-# 1111
+# Front + Back
 
-## Project setup
+## Front : Project setup
 ```
 npm install
 ```
@@ -22,3 +22,16 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Back : Project setup
+```
+cd back
+
+npm install
+```
+
+## Run server
+```
+node server.js
+```
